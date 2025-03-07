@@ -183,6 +183,7 @@ const projects = [
     ],
     image: mealSerch,
     source_code_link: "https://ozirska.github.io/mealSearch/",
+    source_link_github: "https://github.com/Ozirska/mealSearch",
   },
   {
     name: "A+ Studio",
@@ -204,6 +205,7 @@ const projects = [
     ],
     image: AplusStudio,
     source_code_link: "https://ozirska.github.io/AplusStudio/",
+    source_link_github: "https://github.com/Ozirska/AplusStudio",
   },
   {
     name: "Recipes",
@@ -225,6 +227,7 @@ const projects = [
     ],
     image: recipes,
     source_code_link: "https://recipe-gilt-two.vercel.app/",
+    source_link_github: "https://github.com/Ozirska/recipeapp",
   },
   {
     name: "Bulky_MVC",
@@ -246,6 +249,7 @@ const projects = [
     ],
     image: bulky,
     source_code_link: "https://github.com/Ozirska/Bulky_MVC",
+    source_link_github: "https://github.com/Ozirska/Bulky_MVC",
   },
 ];
 
